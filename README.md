@@ -11,8 +11,8 @@
 * item c
 1. Objective 2
 
-2. is it objective 3 or 1 again?
-2. 5 or 6
+1. is it objective 3 or 1 again?
+1. 5 or 6
 
 ```
 print('Hello World!')

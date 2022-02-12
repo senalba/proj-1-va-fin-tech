@@ -11,7 +11,6 @@
  * item b
  * item c
 1. Objective 2
-
 1. is it objective 3 or 1 again?
 1. 5 or 6
 

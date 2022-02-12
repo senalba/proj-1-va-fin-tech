@@ -4,6 +4,7 @@
 
 ### **Fin Tech BootCamp**
 
+# Objectives 
 
 1. Objective 1
 * item a

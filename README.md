@@ -7,9 +7,9 @@
 # Objectives 
 
 1. Objective 1
-* item a
-* item b
-* item c
+ * item a
+ * item b
+ * item c
 1. Objective 2
 
 1. is it objective 3 or 1 again?

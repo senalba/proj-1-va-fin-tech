@@ -30,4 +30,4 @@ test
 [Code](code/)
 
 
-![Boykin Spaniel Image](https://cf-s3.petcoach.co/uploads/breed/78/b00a61c24ed807dade722fda9e87974f17ee3eb5.jpeg)
+![Boykin Spaniel Image](https://labs.feinberg.northwestern.edu/achorniy/images/3042.jpg)

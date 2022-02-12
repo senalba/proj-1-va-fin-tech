@@ -24,7 +24,7 @@ Quotation
 ---
 > " ... to boldly go where one has done before."
 
-*Project Structure*
+**Project Structure**
 ---
 [Data](data/)
 
@@ -32,6 +32,6 @@ Quotation
 
 [Code](code/)
 
-An image of my Dog
+An image of my dog
 ---
 ![Boykin Spaniel Image](https://labs.feinberg.northwestern.edu/achorniy/images/3042.jpg)
